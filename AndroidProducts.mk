@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_munch.mk
+    $(LOCAL_DIR)/derp_munch.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_munch-user \
-    aosp_munch-userdebug \
-    aosp_munch-eng
+    derp_munch-user \
+    derp_munch-userdebug \
+    derp_munch-eng
